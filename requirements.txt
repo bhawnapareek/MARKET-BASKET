@@ -1,0 +1,7 @@
+Flask
+gunicorn
+sqlalchemy
+pandas
+mlxtend
+pymysql
+plotly
